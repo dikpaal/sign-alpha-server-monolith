@@ -10,3 +10,6 @@ tui/tui-client
 # OS
 .DS_Store
 demo.mp4
+
+# Environment
+.env
